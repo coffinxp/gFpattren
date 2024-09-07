@@ -1,0 +1,13 @@
+{
+     "flags": "-iE",
+     "patterns": [
+"postMessage",
+"messageListener",
+".innerHTML",
+"document.write(",
+"document.cookie",
+"location.href",
+"redirectUrl",
+"window.hash"
+]
+}

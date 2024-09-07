@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(stack smashing detected |Backtrace|Memory map)"
+}
