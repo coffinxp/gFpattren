@@ -1,0 +1,5 @@
+{
+    "flags": "-HnriE",
+    "pattern": "fopen\\(|tmpfile\\(|bzopen\\(|gzopen\\(|SplFileObject::__construct"
+}
+

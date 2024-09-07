@@ -1,0 +1,4 @@
+{
+    "flags": "-IEiv",
+    "pattern": "\\.(jpeg|jpg|png|svg|gif|woff|woff2|svg|eot|tif|tiff|ttf|ico|icon|txt|pdf|css|js)$"
+}

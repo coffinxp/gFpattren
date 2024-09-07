@@ -1,0 +1,4 @@
+{
+    "flags": "-HanrE",
+    "pattern": "(POST|api|GET|setReqiestHeader|sed\(|.headers|onreadystatechange|var \{*.\}=|getParameter()|parameter|apiKey)"
+}

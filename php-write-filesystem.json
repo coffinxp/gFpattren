@@ -1,0 +1,4 @@
+{
+    "flags": "-HnriE",
+    "pattern": "chgrp\\(|chmod\\(|chown\\(|copy\\(|file_put_contents\\(|lchgrp\\(|lchown\\(|link\\(|mkdir\\(|move_uploaded_file\\(|rename\\(|rmdir\\(|symlink\\(|tempnam\\(|touch\\(|unlink\\(|imagepng\\(|imagewbmp\\(|image2wbmp\\(|imagejpeg\\(|imagexbm\\(|imagegif\\(|imagegd\\(|imagegd2\\(|iptcembed\\(|ftp_get\\(|ftp_nb_get\\("
+}

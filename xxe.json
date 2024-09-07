@@ -1,0 +1,12 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(simplexml_load_string|parser error |An error occured\!|xmlParse
+EntityDecl|simplexml_load_string|xmlParseInternalSubset|DOCTYPE improperly termi
+nated|Start tag expected|No declaration for attribute|No declaration for element
+|failed to load external entity|Start tag expected|Invalid URI: file:\/\/\/|Malf
+ormed declaration expecting version|Unicode strings with encoding|must be well-f
+ormed|Content is not allowed in prolog|org.xml.sax|SAXParseException|com.sun.org
+.apache.xerces|ParseError|nokogiri|REXML|XML syntax error on line|Error unmarsha
+ling XML|conflicts with field|illegal character code|XML Parsing Error|SyntaxErr
+or|no root element|not well-formed)"
+}

@@ -1,0 +1,4 @@
+{
+    "flags": "-E",
+    "pattern": "login|api|admin|staging|beta|dev|blog|mail|forum|support|upload|portal|payments|cdn|partners|test|shop|assets|docs|demo|beta-api|git|monitoring|internal|blog2|staging-api|vpn|api-v2|beta-admin|crm|intranet|app|jobs|lab|partners-api|internal-api|mobile|cms|auth|chat|cdn2|logs|help|demo-api|bugs|downloads|dashboard|developer|enterprise|grafana|jira|map|maps|rabbitmq|subscription|engineering|admiral|feedback|reward|weblogin|signup|register|zendesk|usuarios|moderator|adm|controlpanel|affiliate"
+}

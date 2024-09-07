@@ -1,0 +1,4 @@
+{
+    "flags": "-iIE",
+    "pattern": "(password|forget|reset|reset-pin|login|logout|signup|sign-up|signin|auth|logon|dashboard|admin|console)"
+}

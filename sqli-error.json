@@ -1,0 +1,37 @@
+
+{
+    "flags": "-HanriE",
+    "pattern": "(Exception \(condition \)?\d+\. Transaction rollback|com\.frontb
+ase\.jdbc|org\.h2\.jdbc|Unexpected end of command in statement \[\"|Unexpected t
+oken.*?in statement \[|org\.hsqldb\.jdbc|CLI Driver.*?DB2|DB2 SQL error|\bdb2_\w
++\(|SQLSTATE.+SQLCODE|com\.ibm\.db2\.jcc|Zend_Db_(Adapter|Statement)_Db2_Excepti
+on|Pdo[./_\\]Ibm|DB2Exception|Warning.*?\Wifx_|Exception.*?Informix|Informix ODB
+C Driver|ODBC Informix driver|com\.informix\.jdbc|weblogic\.jdbc\.informix|Pdo[.
+/_\\]Informix|IfxException|Warning.*?\Wingres_|Ingres SQLSTATE|Ingres\W.*?Driver
+|com\.ingres\.gcf\.jdbc|Dynamic SQL Error|Warning.*?\Wibase_|org\.firebirdsql\.j
+dbc|Pdo[./_\\]Firebird|Microsoft Access (\d+ )?Driver|JET Database Engine|Access
+ Database Engine|ODBC Microsoft Access|Syntax error \(missing operator\) in quer
+y expression|Driver.*? SQL[\-\_\ ]*Server|OLE DB.*? SQL Server|\bSQL Server[^&lt
+;&quot;]+Driver|Warning.*?\W(mssql|sqlsrv)_|\bSQL Server[^&lt;&quot;]+[0-9a-fA-F
+]{8}|System\.Data\.SqlClient\.SqlException|(?s)Exception.*?\bRoadhouse\.Cms\.|Mi
+crosoft SQL Native Client error '[0-9a-fA-F]{8}|\[SQL Server\]|ODBC SQL Server D
+river|ODBC Driver \d+ for SQL Server|SQLServer JDBC Driver|com\.jnetdirect\.jsql
+|macromedia\.jdbc\.sqlserver|Zend_Db_(Adapter|Statement)_Sqlsrv_Exception|com\.m
+icrosoft\.sqlserver\.jdbc|Pdo[./_\\](Mssql|SqlSrv)|SQL(Srv|Server)Exception|SQL
+syntax.*?MySQL|Warning.*?\Wmysqli?_|MySQLSyntaxErrorException|valid MySQL result
+|check the manual that corresponds to your (MySQL|MariaDB) server version|Unknow
+n column '[^ ]+' in 'field list'|MySqlClient\.|com\.mysql\.jdbc|Zend_Db_(Adapter
+|Statement)_Mysqli_Exception|Pdo[./_\\]Mysql|MySqlException|\bORA-\d{5}|Oracle e
+rror|Oracle.*?Driver|Warning.*?\W(oci|ora)_|quoted string not properly terminate
+d|SQL command not properly \ended|macromedia\.jdbc\.oracle|oracle\.jdbc|Zend_Db_
+(Adapter|Statement)_Oracle_Exception|Pdo[./_\\](Oracle|OCI)|OracleException|Post
+greSQL.*?ERROR|Warning.*?\Wpg_|valid PostgreSQL result|Npgsql\.|PG::SyntaxError:
+|org\.postgresql\.util\.PSQLException|ERROR:\s\ssyntax error at or near|ERROR: p
+arser: parse error at or near|PostgreSQL query failed|org\.postgresql\.jdbc|Pdo[
+./_\\]Pgsql|PSQLException|SQL error.*?POS([0-9]+)|Warning.*?\Wmaxdb_|DriverSapDB
+|com\.sap\.dbtech\.jdbc|SQLite/JDBCDriver|SQLite\.Exception|(Microsoft|System)\.
+Data\.SQLite\.SQLiteException|Warning.*?\W(sqlite_|SQLite3::)|\[SQLITE_ERROR\]|S
+QLite error \d+:|sqlite3.OperationalError:|SQLite3::SQLException|org\.sqlite\.JD
+BC|Pdo[./_\\]Sqlite|SQLiteException|Warning.*?\Wsybase_|Sybase message|Sybase.*?
+Server message|SybSQLException|Sybase\.Data\.AseClient|com\.sybase\.jdbc)"
+}

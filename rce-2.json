@@ -1,0 +1,9 @@
+// an alternate RCE pattern
+{
+    "flags": "-HanriE",
+    "pattern": "(root:|(uid|gid|groups)=\d+|bytes from \b(?:[0-9]{1,3}\.){3}[0-9
+]{1,3}\b|Configuration File \(php\.ini\) Path |vulnerable 10|Trying \b(?:[0-9]{1
+,3}\.){3}[0-9]{1,3}\b|\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b\s+localhost|BROADCAST,MU
+LTICAST|drwxr-xr|Active Internet connections|Syntax error|sh:|Average Speed   Ti
+me|dir: cannot access|<script>alert\(1\)</script>|drwxrwxr|GNU/Linux)"
+}
