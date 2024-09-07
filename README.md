@@ -336,27 +336,3 @@ The pattern definitions are stored in `~/.gf` as little JSON files that can be k
 ]
 }
 ```
-
-### Donations
-You can encourage me to contribute more to the open source with donations.
-
-- Paypal - [https://www.paypal.me/1ndianl33t](https://www.paypal.me/1ndianl33t)
-
-- GooglePay,Paytm -
-
-`8085778875`
-
-
-# Credit
-
-[![Twitter](https://img.shields.io/badge/twitter-@TomNomNom-blue.svg)](https://twitter.com/TomNomNom)
-[Bugcrowd HUNT](https://github.com/bugcrowd/HUNT)
-[![Twitter](https://img.shields.io/badge/twitter-@1ndianl33t-blue.svg)](https://twitter.com/1ndianl33t)
-
-# Contributers
-@victoni `added more redirect parameters`
-
-@s0meguy1 `redirect & ssrf pattern Added additional filters`
-
-# Contact
-[![Twitter](https://img.shields.io/badge/twitter-@1ndianl33t-blue.svg)](https://twitter.com/1ndianl33t)
